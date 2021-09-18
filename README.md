@@ -5,6 +5,8 @@
 
 ![Скриншот цветовой схемы](./Screenshot.png)
 
+(используется шрифт [Iosevka](https://github.com/be5invis/Iosevka), проект [Hexlet SICP](https://github.com/Hexlet/hexlet-sicp))
+
 ## TODO
 - Добавить оставшиеся языки в настройках PHPStorm
 - Инструкция по установке
