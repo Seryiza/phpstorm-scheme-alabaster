@@ -1,7 +1,7 @@
 # PHPStorm Alabaster
 Цветовая схема с минимальным подсвечиванием цветом.
 
-Является портированием [темы от tonsky](https://github.com/tonsky/sublime-scheme-alabaster).
+Портирование [темы от tonsky](https://github.com/tonsky/sublime-scheme-alabaster).
 
 ![Скриншот цветовой схемы](./Screenshot.png)
 
