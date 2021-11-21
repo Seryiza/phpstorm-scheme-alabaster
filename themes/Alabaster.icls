@@ -1,9 +1,9 @@
 <scheme name="Alabaster" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2021-09-26T21:42:45</property>
+    <property name="created">2021-11-21T21:25:02</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-09-26T21:43:06</property>
+    <property name="ideVersion">2021.2.3.0.0</property>
+    <property name="modified">2021-11-21T21:25:12</property>
     <property name="originalScheme">Alabaster</property>
   </metaInfo>
   <colors>
@@ -13,6 +13,12 @@
     <option name="DOC_COMMENT_LINK" value="" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="e0e0e0" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="0" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="e0e0e0" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="e0e0e0" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="e0e0e0" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="e0e0e0" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="e0e0e0" />
     <option name="LINE_NUMBERS_COLOR" value="0" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
@@ -39,6 +45,11 @@
       </value>
     </option>
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="CSS.PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -244,8 +255,46 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JSONPATH.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="MAGIC_MEMBER_ACCESS">
       <value />
+    </option>
+    <option name="MAKEFILE_PREREQUISITE">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="MAKEFILE_TARGET">
+      <value>
+        <option name="FOREGROUND" value="325cc0" />
+      </value>
+    </option>
+    <option name="MARKDOWN_TABLE_SEPARATOR">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
@@ -291,6 +340,11 @@
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
